@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soaib1415
-- 👀 I’m interested in .Net Platform
-- 🌱 I’m currently C# MVC SQL J QUERY
+- 👀 I’m interested in Code Cracking
+- 🌱 I’m currently Python 
 -  💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
