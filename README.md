@@ -55,10 +55,10 @@
  🧞 &emsp; I'm a Tech Enthusiast since childhood. <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💡 &emsp; Contributing to Open Source Projects is always been a goal to me.
- ⚡ &emsp; Fun fact: I love Sports, especially Cricket.
- 👯 &emsp; I’m currently working on Full Stack Development, Native Mobile Development.
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues)
+ 💡 &emsp; Contributing to Open Source Projects is always been a goal to me. <br/><br/>
+ ⚡ &emsp; Fun fact: I love Sports, especially Cricket. <br/><br/>
+ 👯 &emsp; I’m currently working on Full Stack Development, Native Mobile Development. <br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues) <br/><br/>
 
 </p>
 
