@@ -9,17 +9,57 @@
     I am <b>Mohd Soaib</b>, an aspiring <b>Software Tester</b> from <b>Khandawli, Sector 150, Faridabad</b>. 
     I am eager to apply my <b>data management</b> skills and contribute to achieving organizational goals.
     <br>
-    <b><i>"---Its a difference of just one try between Success and Failure---"</i></b>
+    <b><i>"---It's a difference of just one try between Success and Failure---"</i></b>
   </em>
 </p>
 
-<h3>Little facts about me 🧑</h3>
+<h3>Little Facts About Me 🧑</h3>
 <ul>
   <li>🧞 I’m a Tech Enthusiast since childhood.</li>
   <li>🔭 I’m currently working on Software Testing and Data Analysis.</li>
   <li>👯 I’m looking to collaborate on challenging projects.</li>
   <li>💡 Contributing to Open Source Projects is a goal for me.</li>
   <li>⚡ Fun fact: I love Cricket.</li>
+</ul>
+<br>
+
+---
+
+<h3>🎓 Education</h3>
+<ul>
+  <li>🎓 **MTech**: Chaudhary Devi Lal University, Sirsa (2021-2023) - Percentage: 71%</li>
+  <li>🎓 **MCA**: Chaudhary Devi Lal University, Sirsa (2018-2021) - Percentage: 70%</li>
+  <li>🎓 **BCA**: Maharishi Dayanand University, Rohtak (2014-2017) - Percentage: 64%</li>
+  <li>🎓 **12th Grade**: Board Of School Education, Bhiwani (2014) - Percentage: 60%</li>
+  <li>🎓 **10th Grade**: Board Of School Education, Bhiwani (2012) - Percentage: 70%</li>
+</ul>
+<br>
+
+<h3>🏆 Certifications</h3>
+<ul>
+  <li>📜 **Python Programmer Certificate** from Great Learning - June 2024</li>
+  <li>🎖️ **National Service Scheme** Organized by Chaudhary Devi Lal University, Sirsa - Sep 2022</li>
+  <li>🎖️ **Appreciation Award** from Chaudhary Devi Lal University, Sirsa - Oct 2022</li>
+  <li>🎖️ **National Service Scheme** Organized by Chaudhary Devi Lal University, Sirsa - Sep 2021</li>
+  <li>🏅 **National Level Quiz-2020** Organized by St Claret College, Bengaluru - May 2020</li>
+</ul>
+<br>
+
+<h3>💻 Projects</h3>
+<ul>
+  <li>
+    📊 **Credit Card Customer & Transaction Report Dashboard** using Power BI
+    <br>
+    <ul>
+      <li>Developed dynamic dashboard for credit card transactions analysis.</li>
+      <li>Analyzed 1000+ transactions covering revenue and interest.</li>
+      <li>Created interactive visualizations for card category revenue breakdown.</li>
+      <li>Utilized Power BI for expenditure categories analysis.</li>
+      <li>Integrated customer qualification data including income and demographics.</li>
+      <li>Identified top 5 states with high credit card usage for targeted strategies.</li>
+      <li>Collaborated with stakeholders to align dashboard with business goals.</li>
+    </ul>
+  </li>
 </ul>
 <br>
 
