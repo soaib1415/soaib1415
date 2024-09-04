@@ -101,27 +101,24 @@
 
 <ul>
   <li>
-    📊 <b>Credit Card Customer & Transaction Report Dashboard</b> using Power BI
-    <ul>
-      <li>📊 <b>Sales Performance Analysis Dashboard</b></li>
-      <li>📊 <b>Customer Segmentation Insights</b></li>
-      <li>📊 <b>Financial Forecasting & Trends Dashboard</b></li>
-      <li>📊 <b>Inventory Management Analytics</b></li>
-      <li>📊 <b>Employee Performance Metrics Dashboard</b></li>
-      <li>📊 <b>Marketing Campaign Effectiveness Report</b></li>
-      <li>📊 <b>Supply Chain Analytics Dashboard</b></li>
-      <li>📊 <b>Healthcare Patient Data Visualization</b></li>
-      <li>📊 <b>Real Estate Market Trends Report</b></li>
-      <li>📊 <b>E-commerce Sales Analytics</b></li>
-      <li>📊 <b>Project Management KPI Dashboard</b></li>
-      <li>📊 <b>Energy Consumption Analysis Dashboard</b></li>
-      <li>📊 <b>Social Media Engagement Metrics</b></li>
-      <li>📊 <b>Revenue and Profitability Analysis</b></li>
-      <li>📊 <b>Transportation and Logistics Performance Dashboard</b></li>
-    </ul>
+	  <li>📊 <b>Credit Card Customer & Transaction Report Dashboard</b></li>
+      <li>📈 <b>Sales Performance Analysis Dashboard</b></li>
+      <li>🛒 <b>Customer Segmentation Insights</b></li>
+      <li>📅 <b>Financial Forecasting & Trends Dashboard</b></li>
+      <li>📦 <b>Inventory Management Analytics</b></li>
+      <li>👥 <b>Employee Performance Metrics Dashboard</b></li>
+      <li>📣 <b>Marketing Campaign Effectiveness Report</b></li>
+      <li>🔗 <b>Supply Chain Analytics Dashboard</b></li>
+      <li>🏥 <b>Healthcare Patient Data Visualization</b></li>
+      <li>🏠 <b>Real Estate Market Trends Report</b></li>
+      <li>🛒 <b>E-commerce Sales Analytics</b></li>
+      <li>📋 <b>Project Management KPI Dashboard</b></li>
+      <li>⚡ <b>Energy Consumption Analysis Dashboard</b></li>
+      <li>📱 <b>Social Media Engagement Metrics</b></li>
+      <li>💵 <b>Revenue and Profitability Analysis</b></li>
+      <li>🚚 <b>Transportation and Logistics Performance Dashboard</b></li>
   </li>
 </ul>
-
 
    
     
