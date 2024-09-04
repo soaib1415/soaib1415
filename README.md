@@ -73,7 +73,7 @@
 </ul>
 
 <p>
-  📩 &emsp; For inquiries or to discuss your project needs, reach out to us at: <a href="mailto:soaib1415@gmail.com">soaib1415@gmail.com</a>
+  📩 &emsp; For inquiries or to discuss your project needs, reach out to us at: <a href="mailto:soaib1415@gmail.com">Contact Me</a>
 </p>
 
 <br/>
