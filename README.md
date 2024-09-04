@@ -1,127 +1,87 @@
-
-<a href="https://komarev.com/ghpvc/?username=soaib1415">
-  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
-<!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Mohd Soaib</a></b>
-        </samp>
-</h3>
-
-
-<p align="center"> 
-  <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
-    <br>
-    「 I am a full stack web application developer from <b>India | Haryana  </b> 」
-    <br>
-    <br>
-  </samp>
+<h1 align="center">Hi, I'm Mohd Soaib</h1>
+<p align="center">
+  <a href="mailto:soaib1415@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="24px" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/soaib1415">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="24px" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/soaib1415">
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="26px" alt="GitHub">
+  </a>
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
- <a href="https://linkedin.com/in/soaib1415" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- <a href="https://twitter.com/soaib1415" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
- <a href="https://instagram.com/soaib1415" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <a href="https://facebook.com/soaib1415" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
+  📍 Khandawli, Sector 150, Faridabad, Haryana 121004<br>
+  📞 +91 9050521415<br>
+  📧 <a href="mailto:soaib1415@gmail.com">soaib1415@gmail.com</a>
 </p>
-<br />
 
-<!-- About Section -->
- # About me
- 
+---
+
+<h2>Career Summary</h2>
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- 🧞 &emsp; I'm a Tech Enthusiast since childhood. <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: alsiam.dev@gmail.com<br/><br/>
- 💡 &emsp; Contributing to Open Source Projects is always been a goal to me. <br/><br/>
- ⚡ &emsp; Fun fact: I love Sports, especially Cricket. <br/><br/>
- 👯 &emsp; I’m currently working on Full Stack Development, Native Mobile Development. <br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alsiam/alsiam/issues) <br/><br/>
-
+  I am seeking an enthusiastic start in the field of software testing, looking for a challenging role in an organization where my skills, knowledge, and hard work can be effectively utilized. I am passionate about applying my data management skills to support team operations and contribute towards achieving organizational goals.
 </p>
 
-<br/>
-<br/>
-<br/>
+<h2>Technical Skills</h2>
+<ul>
+  <li>Data Visualization (Power BI)</li>
+  <li>Database Management (SQL)</li>
+  <li>Programming Languages (Python)</li>
+  <li>Web Development</li>
+  <li>Cybersecurity Awareness</li>
+</ul>
 
-## Use To Code
+<h2>Non-Technical Skills</h2>
+<ul>
+  <li>Communication Skills (Verbal and Written)</li>
+  <li>Problem-solving Skills</li>
+  <li>Critical Thinking</li>
+  <li>Efficient Resource Allocation</li>
+  <li>Collaboration</li>
+  <li>Adaptability and Flexibility</li>
+  <li>Task Prioritization</li>
+  <li>Learning Agility</li>
+  <li>Effective Communication</li>
+  <li>Data Review</li>
+</ul>
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<h2>Education</h2>
+<ul>
+  <li><b>MTech</b>: Chaudhary Devi Lal University, Sirsa<br>Years of Passing: 2021-2023<br>Percentage: 71%</li>
+  <li><b>MCA</b>: Chaudhary Devi Lal University, Sirsa<br>Years of Passing: 2018-2021<br>Percentage: 70%</li>
+  <li><b>BCA</b>: Maharishi Dayanand University, Rohtak<br>Years of Passing: 2014-2017<br>Percentage: 64%</li>
+  <li><b>12th</b>: Board Of School Education, Bhiwani<br>Year of Passing: 2014<br>Percentage: 60%</li>
+  <li><b>10th</b>: Board Of School Education, Bhiwani<br>Year of Passing: 2012<br>Percentage: 70%</li>
+</ul>
 
-<br/>
+<h2>Certificates</h2>
+<ul>
+  <li>Python Programmer certificate from Great Learning, June 2024</li>
+  <li>Attended National Service Scheme Organized by Chaudhary Devi Lal University, Sirsa, Sep 2022</li>
+  <li>Received Appreciation from Chaudhary Devi Lal University, Sirsa, Oct 2022</li>
+  <li>Attended National Service Scheme Organized by Chaudhary Devi Lal University, Sirsa, Sep 2021</li>
+  <li>Attended National Level Quiz-2020 Organized by St. Claret College, Bengaluru, May 2020</li>
+</ul>
 
-## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/itasks)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
-[![Mohd Soaib Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
+<h2>Projects</h2>
 
-<p align="left">
-  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<h3>Credit Card Customer & Transaction Report Dashboard using Power BI</h3>
+<p><b>Role:</b> Lead Developer</p>
+<ul>
+  <li>Developed a dynamic Credit Card Customer & Transaction Report Dashboard using Power BI.</li>
+  <li>Analyzed 1000+ credit card transactions, covering revenue and interest.</li>
+  <li>Created interactive visualizations for card category revenue breakdown.</li>
+  <li>Utilized Power BI to analyze expenditure categories for spending insights.</li>
+  <li>Integrated customer qualification data, including income and demographics.</li>
+  <li>Identified top 5 states with high credit card usage for targeted strategies.</li>
+  <li>Collaborated with stakeholders to align dashboard with business goals.</li>
+</ul>
+
+---
+
+<p align="right">Created with 🧡 by <a href="https://github.com/soaib1415">Mohd Soaib</a></p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=soaib1415&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-<br/>
-<hr/>
-<br/>
-
-<p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Mohd Soaib's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/alsiam"><img alt="Mohd Soaib's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Mohd Soaib's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
-![Mohd Soaib's Graph](https://github-readme-activity-graph.vercel.app/graph?username=alsiam&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
