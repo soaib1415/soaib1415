@@ -59,15 +59,15 @@
 </p>
 <ul>
   <li>
-    🎓 **College Projects**: We offer support for BCA, MCA, and BSc students with their academic projects, including project files and documentation.
+    🎓 <b> College Projects </b>: We offer support for BCA, MCA, and BSc students with their academic projects, including project files and documentation.
     <img src="https://img.shields.io/badge/College%20Projects-0077B5?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="College Projects" />
   </li>
   <li>
-    📜 **Thesis Development**: Assistance in creating comprehensive theses for M.Tech students, including research papers and detailed reports.
+    📜 <b> Thesis Development </b>: Assistance in creating comprehensive theses for M.Tech students, including research papers and detailed reports.
     <img src="https://img.shields.io/badge/Thesis%20Development-4CAF50?style=for-the-badge&logo=book&logoColor=white" alt="Thesis Development" />
   </li>
   <li>
-    🛠️ **Custom Projects**: Contact us for private project development based on your specific requirements and needs.
+    🛠️ <b> Custom Projects </b>: Contact us for private project development based on your specific requirements and needs.
     <img src="https://img.shields.io/badge/Custom%20Projects-FF5722?style=for-the-badge&logo=cogs&logoColor=white" alt="Custom Projects" />
   </li>
 </ul>
@@ -101,17 +101,31 @@
 
 <ul>
   <li>
-    📊 **Credit Card Customer & Transaction Report Dashboard** using Power BI
-    <br>
+    📊 <b>Credit Card Customer & Transaction Report Dashboard</b> using Power BI
     <ul>
-      <li>Developed dynamic dashboard for credit card transactions analysis.</li>
-      <li>Analyzed 1000+ transactions covering revenue and interest.</li>
-      <li>Created interactive visualizations for card category revenue breakdown.</li>
-      <li>Utilized Power BI for expenditure categories analysis.</li>
-      <li>Integrated customer qualification data including income and demographics.</li>
-      <li>Identified top 5 states with high credit card usage for targeted strategies.</li>
-      <li>Collaborated with stakeholders to align dashboard with business goals.</li>
+      <li>📊 <b>Sales Performance Analysis Dashboard</b></li>
+      <li>📊 <b>Customer Segmentation Insights</b></li>
+      <li>📊 <b>Financial Forecasting & Trends Dashboard</b></li>
+      <li>📊 <b>Inventory Management Analytics</b></li>
+      <li>📊 <b>Employee Performance Metrics Dashboard</b></li>
+      <li>📊 <b>Marketing Campaign Effectiveness Report</b></li>
+      <li>📊 <b>Supply Chain Analytics Dashboard</b></li>
+      <li>📊 <b>Healthcare Patient Data Visualization</b></li>
+      <li>📊 <b>Real Estate Market Trends Report</b></li>
+      <li>📊 <b>E-commerce Sales Analytics</b></li>
+      <li>📊 <b>Project Management KPI Dashboard</b></li>
+      <li>📊 <b>Energy Consumption Analysis Dashboard</b></li>
+      <li>📊 <b>Social Media Engagement Metrics</b></li>
+      <li>📊 <b>Revenue and Profitability Analysis</b></li>
+      <li>📊 <b>Transportation and Logistics Performance Dashboard</b></li>
     </ul>
+  </li>
+</ul>
+
+
+   
+    
+       </ul>
   </li>
 </ul>
 
