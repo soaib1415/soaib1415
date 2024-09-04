@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohd Soaib</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/3o6Zt3DoCMf9kSQDLu/giphy.gif" width="30px">, I'm Mohd Soaib</h1>
 
 <p align="center">
   <a href="https://github.com/soaib1415/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Tester;Data+Analyst;Aspiring+Developer;Enthusiastic+Learner&center=true&width=500&height=50"></a>
@@ -49,7 +49,6 @@
   💬 &emsp; Have questions or want to collaborate? Open an issue or drop a message [here](https://github.com/soaib1415/soaib1415/issues).
 </p>
 
-
 <br/>
 <br/>
 
@@ -78,8 +77,9 @@
   📩 &emsp; For inquiries or to discuss your project needs, reach out to us at: <a href="mailto:soaib1415@gmail.com">soaib1415@gmail.com</a>
 </p>
 
-</br>
-</br>
+<br/>
+<br/>
+
 <!-- Tech Stack -->
 <h3>🛠️ Tech Stack</h3>
 
@@ -94,7 +94,6 @@
   <img src="https://img.shields.io/badge/Cyber%20Security-000000?style=for-the-badge&logo=security&logoColor=white" alt="Cyber Security Expert"/>
   <img src="https://img.shields.io/badge/Developer-000000?style=for-the-badge&logo=developer&logoColor=white" alt="Web Developer"/>
 </p>
-
 
 <br/>
 
@@ -121,7 +120,6 @@
 
 <!-- GitHub Stats and Social -->
 <h3>📊 GitHub Stats</h3>
-
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soaib1415&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="soaib1415" />
