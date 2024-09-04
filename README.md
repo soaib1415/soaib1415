@@ -45,10 +45,9 @@
   💻 &emsp; I thrive on solving complex problems and building efficient, scalable solutions. Whether it's software testing or data analysis, I dive deep to ensure high-quality outcomes.<br/><br/>
   🌱 &emsp; I'm always learning new technologies and improving my skill set. Currently, I'm focused on enhancing my expertise in <b>Power BI</b> and <b>Python</b>.<br/><br/>
   🚀 &emsp; I enjoy contributing to projects that challenge me and allow me to grow professionally. If you have a fascinating project or just want to chat about tech, feel free to reach out!<br/><br/>
-  📧 &emsp; You can contact me anytime at: <a href="mailto:soaib1415@gmail.com">soaib1415@gmail.com</a><br/><br/>
+  📧 &emsp; You can contact me anytime at: <a href="mailto:soaib1415@gmail.com">Contact Me </a><br/><br/>
   💬 &emsp; Have questions or want to collaborate? Open an issue or drop a message [here](https://github.com/soaib1415/soaib1415/issues).
 </p>
-
 <br/>
 <br/>
 
