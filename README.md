@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/3o6Zt3DoCMf9kSQDLu/giphy.gif" width="30px">, I'm Mohd Soaib</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mohd Soaib</h1>
 
 <p align="center">
   <a href="https://github.com/soaib1415/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Tester;Data+Analyst;Aspiring+Developer;Enthusiastic+Learner&center=true&width=500&height=50"></a>
