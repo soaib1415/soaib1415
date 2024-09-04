@@ -100,8 +100,7 @@
 <h3>💻 Projects</h3>
 
 <ul>
-  <li>
-	  <li>📊 <b>Credit Card Customer & Transaction Report Dashboard</b></li>
+      <li>📊 <b>Credit Card Customer & Transaction Report Dashboard</b></li>
       <li>📈 <b>Sales Performance Analysis Dashboard</b></li>
       <li>🛒 <b>Customer Segmentation Insights</b></li>
       <li>📅 <b>Financial Forecasting & Trends Dashboard</b></li>
@@ -117,12 +116,6 @@
       <li>📱 <b>Social Media Engagement Metrics</b></li>
       <li>💵 <b>Revenue and Profitability Analysis</b></li>
       <li>🚚 <b>Transportation and Logistics Performance Dashboard</b></li>
-  </li>
-</ul>
-
-   
-    
-       </ul>
   </li>
 </ul>
 
