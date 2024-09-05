@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>
-    I am <b>Mohd Soaib</b>, an aspiring <b>Software Tester</b> from <b>Khandawli, Sector 150, Faridabad</b>. 
+    I am <b>Mohd Soaib</b>, an aspiring <b>Data Analyst</b> from <b>Khandawli, Sector 150, Faridabad</b>. 
     I am eager to apply my <b>data management</b> skills and contribute to achieving organizational goals.
     <br>
     <b><i>"---It's a difference of just one try between Success and Failure---"</i></b>
